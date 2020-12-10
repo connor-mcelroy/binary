@@ -31,7 +31,7 @@ int main()
             cout << digits[count];
         }
         cout << endl;
-        cout << "Try another number?: ";
+        cout << "Try another number? y/n: ";
         cin >> choice;
     }
     return 0;
